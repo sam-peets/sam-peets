@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sam-peets
-- 👀 I’m Interested in Software Rendering
+- 👀 I’m Interested in Computer Rendering
 - 🌱 I’m Currently an Undergraduate Computer Science Student at the University of Victoria
 
 
