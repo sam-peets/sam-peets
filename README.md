@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @sam-peets
-- 👀 I’m interested in computer rendering
-- 🌱 I’m currently an undergraduate computer science student at the University of Victoria
+- 👋 Hi, I’m @sam-peets.
+- 👀 I’m interested in computer rendering.
+- 🌱 I’m currently an undergraduate computer science student at the University of Victoria.
